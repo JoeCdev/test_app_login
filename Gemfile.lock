@@ -212,6 +212,7 @@ GEM
     formatador (0.2.5)
     globalid (0.4.0)
       activesupport (>= 4.2.0)
+    gravatar (1.0)
     guard (2.14.1)
       formatador (>= 0.2.4)
       listen (>= 2.7, < 4.0)
@@ -366,6 +367,7 @@ DEPENDENCIES
   coffee-rails (= 4.2.2)
   faker (= 1.7.3)
   fog (= 1.40.0)
+  gravatar
   guard (= 2.14.1)
   guard-minitest (= 2.4.6)
   jbuilder
